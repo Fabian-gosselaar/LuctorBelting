@@ -1,0 +1,17 @@
+<!doctype html>
+<title>Site Onderhoud</title>
+<style>
+  body { text-align: center; padding: 150px; }
+  h1 { font-size: 50px; }
+  body { font: 20px Helvetica, sans-serif; color: #333; }
+  article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+  a { color: #dc8100; text-decoration: none; }
+  a:hover { color: #333; text-decoration: none; }
+</style>
+
+<article>
+    <h1>Website onderhoud</h1>
+    <div>
+        <p>Sorry voor het ongemak, de website wordt momenteel bijgewerkt. Indien nodig kunt u ons <a href="mailto:info@luctorbelting.com">per mail</a> bereiken, wij zullen zo terug zijn!</p>
+    </div>
+</article>
